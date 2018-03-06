@@ -1,5 +1,6 @@
 # UnityShaderBall
-3D model shaderball (CC0 licensed) and a demo Unity 2017.X project (MIT licensed)
+![](https://github.com/Pseudopode/UnityShaderBall/blob/master/Screenshots/screenshot0.jpg)
+This repository contain a **3D model shaderball (CC0 licensed)** and a demo **Unity 2017.X project (MIT licensed)**.
 
 The 3D model is an attempt to recreate the one that can be seen is scientific papers (like this one - Figure 3, page 5: http://old.cescg.org/CESCG-2010/papers/ElekOskar.pdf)
 
